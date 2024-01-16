@@ -1,6 +1,4 @@
 # Brainwave-Analysis-Tool
 
-- Create a tool for analyzing EEG (Electroencephalogram) data using Django.
-- Use SQL to store and manage EEG data.
-- Develop shell scripts for preprocessing and cleaning EEG data.
-- Implement microservices for real-time data analysis and visualization.
+### What is EEG data?
+EEG (Electroencephalogram) data refers to the electrical activity of the brain recorded over a specific period. This activity is captured using electrodes placed on the scalp, which detect the minute electrical changes resulting from the synchronized activity of neural assemblies. EEG data can provide insights into different states of consciousness, cognitive processes, and potential neurological abnormalities.
